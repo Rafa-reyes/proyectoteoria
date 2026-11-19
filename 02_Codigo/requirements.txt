@@ -1,0 +1,4 @@
+# El núcleo del programa solo usa la biblioteca estándar de Python.
+matplotlib>=3.8     # exportar imágenes PNG (opcional)
+networkx>=3.2       # solo para posicionar nodos en el dibujo (opcional)
+pytest>=8.0         # pruebas automáticas
