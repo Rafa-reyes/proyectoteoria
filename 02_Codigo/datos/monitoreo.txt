@@ -1,0 +1,5 @@
+# Dispositivo: secuencia de eventos (ok, lento, timeout)
+Router1: ok, ok, ok
+Server: ok, timeout, timeout
+DB: timeout, ok, timeout
+Switch1: ok, lento, ok

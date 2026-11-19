@@ -1,0 +1,4 @@
+Router1,Switch1,2
+Router1;Switch2
+Switch1,PC1,0
+PC1,PC1
